@@ -7,3 +7,7 @@ non-elementry
 acylindrical
 decompositions
 HHGs
+Salvetti
+convex-cocompact
+cocompactly
+RAAG
